@@ -1,0 +1,3 @@
+# Core yt-ai uses only the Python standard library.
+# Optional: needed only to fetch transcripts live from YouTube.
+youtube-transcript-api>=0.6
